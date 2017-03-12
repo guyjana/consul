@@ -2,18 +2,18 @@
 en:
   account:
     show:
-      change_credentials_link: Change my credentials
-      email_on_comment_label: Notify me by email when someone comments on my proposals or debates
-      email_on_comment_reply_label: Notify me by email when someone replies to my comments
-      erase_account_link: Erase my account
-      finish_verification: Complete verification
-      notifications: Notifications
-      organization_name_label: Name of organization
-      organization_responsible_name_placeholder: Representative of the organization/collective
-      personal: Personal details
-      phone_number_label: Phone number
-      public_activity_label: Keep my list of activities public
-      save_changes_submit: Save changes
+      change_credentials_link: שינוי הגדרות
+      email_on_comment_label: עדכנו אותי במייל כשמישהו מגיב על הצעה שלי
+      email_on_comment_reply_label: עדכנו אותי במייל כשמישהו מגיב על תגובה שלי
+      erase_account_link: מחק את החשבון שלי
+      finish_verification: השלם את אישור החשבון
+      notifications:עדכונים 
+      organization_name_label: שם הארגון
+      organization_responsible_name_placeholder: שם הקבוצה
+      personal: פרטים אישיים
+      phone_number_label: מספר טלפון
+      public_activity_label: הצג את הפעילויות שלי ציבורית
+      save_changes_submit: שמירת שינויים
       subscription_to_website_newsletter_label: Receive by email website relevant information
       email_on_direct_message_label: Receive emails about direct messages
       email_digest_label: Receive a summary of proposal notifications
